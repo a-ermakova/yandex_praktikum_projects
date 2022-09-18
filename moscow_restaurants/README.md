@@ -9,3 +9,6 @@
 * seaborn
 * io
 * requests
+
+
+*Файл достаточно тяжёлый. Если он не будет грузится, его можно посмотреть [здесь](https://nbviewer.org/github/a-ermakova/yandex_praktikum_projects/blob/main/moscow_restaurants/moscow_restaurants.ipynb).*
