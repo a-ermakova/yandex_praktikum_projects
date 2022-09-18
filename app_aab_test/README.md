@@ -9,3 +9,5 @@
 * seaborn
 * plotly
 * math
+
+*Поскольку проект содержит график, выполненный библиотекой `plotly`, рекомендуется просматривать его в [nbviewer](https://nbviewer.org/github/a-ermakova/yandex_praktikum_projects/blob/main/app_aab_test/app_aab_test.ipynb).*
