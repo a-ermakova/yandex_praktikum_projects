@@ -1,5 +1,5 @@
 # Repository description
-This repository contains the projects that I made during the course "Data Analyst" arranged by Yandex Praktikum. By the moment, as part of the studying program, I have completed 13 independent projects, 10 of which are posted here (the rest was performed directly on the Yandex Praktikum platform (separate tasks in the SQL simulator), or contained a significant non-author component).
+This repository contains the projects that I made during the course "Data Analyst" organized by Yandex Practicum. By the moment, as part of the studying program, I have completed 13 independent projects, 10 of which are posted here (the rest was performed directly on the Yandex Praktikum platform (separate tasks in the SQL simulator), or contained a significant non-author component).
 
 A brief description of the projects in the repository (from new to early):
 1. **Strategy for raising the clients' retention in the fitness club chain** (`fitness_club_churn` directory): I coducted EDA, created a binary classification model to forecast the probability of churn for a particular client, made a clusterization of clients to find some common behavior patterns. Based on the research, I proposed several recommendations to increase retention. *Skills: exploratory data analysis, machine learning, data visualization.*
@@ -15,4 +15,4 @@ A brief description of the projects in the repository (from new to early):
 
 Various libraries were used in the projects. The main ones are `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`.
 
-Since the datasets were provided by Yandex Praktikum and constitute an intellectual property, all links to the training data are hidden.
+Since the datasets were provided by Yandex Practicum and constitute an intellectual property, all links to the training data are hidden.
