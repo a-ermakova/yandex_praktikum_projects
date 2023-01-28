@@ -1,5 +1,5 @@
 # Repository description
-This repository contains the projects that I made during the course "Data Analyst" organized by Yandex Practicum. By the moment, as part of the studying program, I have completed 13 independent projects, 10 of which are posted here (the rest was performed directly on the Yandex Praktikum platform (separate tasks in the SQL simulator), or contained a significant non-author component).
+This repository contains the projects that I made during the course "Data Analyst" organized by Yandex Practicum. By the moment, as part of the studying program, I have completed 16 independent projects, 13 of which are posted here (the rest was performed directly on the Yandex Praktikum platform (separate tasks in the SQL simulator), or contained a significant non-author component).
 
 A brief description of the projects in the repository (from new to early):
 1. **Recommender system test** (`recommender_system_test` directory): I prepared data for assessing A/B-test, analysed the audience, conducted EDA and z-tests, and found out that a new recommender system is inefficient. *Skills: A/B-testing, statistical testing, `plotly`.*
