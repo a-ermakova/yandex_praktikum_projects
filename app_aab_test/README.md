@@ -6,7 +6,7 @@ Finished
 2. To determine whether the idea of changing the fonts in the app is viable
 ## Results
 1. Large percantage of users is lost while trying to go from Main Screen to Offers Screen, thus, some theories of what could cause the problem and the ways to resolve it are proposed.
-2. A/A/b-test showed there were no statistically significant diffirences in users' behaviour after the fonts were changed.
+2. A/A/B-test showed there were no statistically significant diffirences in users' behaviour after the fonts were changed.
 ## Библиотеки
 * pandas
 * scipy
